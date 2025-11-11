@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **eshimovhayitmurod@gmail.com**
 
-- ⚡ Fun fact **If you want to change the world, start with yourself**
+- ⚡ Fun fact **"If you want to change the world, start with yourself"**
 
 - 👨‍💻 All of my projects are available at **[https://hayitmurod.me](https://hayitmurod.me)**
 
