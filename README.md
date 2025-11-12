@@ -91,6 +91,9 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
       <img src="./tools/nextjs.svg" alt="nextjs" width="40" height="40"/>
    </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
+      <img src="./tools/vite.svg" alt="vitejs" width="40" height="40"/>
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
       <img src="./tools/docker.svg" alt="docker" width="40" height="40"/>
    </a>
