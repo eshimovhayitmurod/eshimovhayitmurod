@@ -103,6 +103,9 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/npm" target="_blank" rel="noreferrer">
       <img src="./tools/npm.svg" alt="babel" width="40" height="40"/>
    </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/yarn" target="_blank" rel="noreferrer">
+      <img src="./tools/yarn.svg" alt="babel" width="40" height="40"/>
+   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
       <img src="./tools/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
    </a>
