@@ -52,64 +52,73 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
+   <span>
       <img src="./tools/html.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/css.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/sass.svg" alt="sass" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/javascript.svg" alt="javascript" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/typescript.svg" alt="typescript" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/nodejs.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/git.svg" alt="git" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/figma.svg" alt="figma" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/react.svg" alt="react" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/redux.svg" alt="redux" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer">
+   </span>
+   <span>
       <img src="./tools/graphql.svg" alt="graphql" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
-      <img src="./tools/nextjs.svg" alt="nextjs" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer">
-      <img src="./tools/vite.svg" alt="vitejs" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer">
-      <img src="./tools/docker.svg" alt="docker" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer">
-      <img src="./tools/webpack.svg" alt="webpack" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer">
-      <img src="./tools/babel.svg" alt="babel" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/npm" target="_blank" rel="noreferrer">
-      <img src="./tools/npm.svg" alt="babel" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/yarn" target="_blank" rel="noreferrer">
-      <img src="./tools/yarn.svg" alt="babel" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
+   </span>
+   <span>
+      <img src="./tools/postman.svg" alt="graphql" width="40" height="40"/>
+   </span>
+   <span>
       <img src="./tools/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
-   </a>
+   </span>
+   <span>
+      <img src="./tools/nextjs.svg" alt="nextjs" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/docker.svg" alt="docker" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/vite.svg" alt="vitejs" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/webpack.svg" alt="webpack" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/babel.svg" alt="babel" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/npm.svg" alt="babel" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/yarn.svg" alt="babel" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/eslint.svg" alt="tailwind" width="40" height="40"/>
+   </span>
+   <span>
+      <img src="./tools/prettier.svg" alt="tailwind" width="40" height="40"/>
+   </span>
 </p>
