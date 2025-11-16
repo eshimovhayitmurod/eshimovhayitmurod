@@ -14,7 +14,7 @@
 
 -  👨‍💻 All of my projects are available at **[hayitmurod.me](https://hayitmurod.me)**
 
--  📄 Know about my experiences **[Hayitmurod_Eshimov_Resume.pdf](resume/Hayitmurod_Eshimov_Resume.pdf)**
+-  📄 Know about my experiences **[Eshimov_Hayitmurod_Resume.pdf](resume/Eshimov_Hayitmurod_Resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
