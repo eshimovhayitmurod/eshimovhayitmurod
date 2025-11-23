@@ -12,7 +12,7 @@
 
 -  ⚡ Fun fact **"If you want to change the world, start with yourself"**
 
--  👨‍💻 All of my projects are available at **[hayitmurod.me](https://hayitmurod.me)**
+-  👨‍💻 All of my projects are available at **[hayitmurod.uz](https://hayitmurod.uz)**
 
 -  📄 Know about my experiences **[Eshimov_Hayitmurod_Resume.pdf](resume/Eshimov_Hayitmurod_Resume.pdf)**
 
