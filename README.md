@@ -22,9 +22,9 @@
 
 - Framework: Next.js
 
-- State Management: Context, Redux, Redux-toolkit, Zustand
+- State Management: Context, Redux, Redux Toolkit, Zustand
 
-- Styling: Bootstrap, Sass, Tailwindcss
+- Styling: Bootstrap, Sass, Tailwind CSS
 
 - API & Data: Axios, Fetch, GraphQL, Postman
 
@@ -39,6 +39,30 @@
 - Design: Figma
 
 - Infrastructure: Docker
+
+- Runtime: Node.js
+
+## 🚀 Featured Projects
+
+- Onlinedu.uz – continuous professional education platform (Javascript, React)
+
+- DonoCRM – call center automation web app (Javascript, React)
+
+- CFO.uz – enterprise web app (Javascript, React, Vite)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshimovhayitmurod&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshimovhayitmurod&theme=dark)
+
+## 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshimovhayitmurod&layout=compact)
+
+## 🏆 Top Repositories
+
+![Top Repos](https://github-readme-stats.vercel.app/api?username=eshimovhayitmurod&show_icons=true&count_private=true&theme=github_dark&sort=stars)
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -96,7 +120,7 @@
          <p align="left">
             <a href="https://dribbble.com/eshimovhayitmurod" target="blank">
                <img align="center" src="./social-media/dribbble.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>Dribble</span>
+               <span>Dribbble</span>
             </a>
          </p>
          <p align="left">
