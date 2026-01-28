@@ -54,8 +54,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eshimovhayitmurod&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eshimovhayitmurod&theme=dark)
-
 ## 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eshimovhayitmurod&layout=compact)
