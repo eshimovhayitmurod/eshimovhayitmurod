@@ -1,124 +1,110 @@
 # Hi 👋, I'm Eshimov Hayitmurod
 
-### Front End Developer (React • TypeScript • Next.js)
+## Front End Developer (React • TypeScript • Next.js)
 
--  🔭 I'm currently working on **CFO.uz web app**
+- 🔭 I'm currently working on **CFO.uz web app** (Javascript, React, Vite)
 
--  🌱 Currently improving skills in **GraphQL** & **TypeScript** (production usage)
+- 🌱 Currently improving skills in **GraphQL** & **TypeScript** (production usage)
 
--  💬 Ask me about **Javascript, React and web development**
+- 💬 Ask me about **Javascript, React and web development**
 
--  📫 How to reach me **eshimovhayitmurod@gmail.com**
+- 📫 How to reach me **eshimovhayitmurod@gmail.com**
 
--  ⚡ Fun fact **"If you want to change the world, start with yourself"**
+- ⚡ Fun fact **"If you want to change the world, start with yourself"**
 
--  👨‍💻 All of my projects are available at **[hayitmurod.uz](https://hayitmurod.uz)**
+- 👨‍💻 All of my projects are available at **[hayitmurod.uz](https://hayitmurod.uz)**
 
--  📄 Know about my experiences **[Eshimov_Hayitmurod_Resume.pdf](resume/Eshimov_Hayitmurod_Resume.pdf)**
+- 📄 Know about my experiences **[Eshimov_Hayitmurod_Resume.pdf](resume/Eshimov_Hayitmurod_Resume.pdf)**
+
+## Skills and Tools:
+
+- Frontend core: HTML, CSS, JS, TS, React
+
+- Framework: Next.js
+
+- State Management: Context, Redux, Redux-toolkit, Zustand
+
+- Styling: Bootstrap, Sass, Tailwindcss
+
+- API & Data: Axios, Fetch, GraphQL, Postman
+
+- Build & Ecosystem: Vite, Webpack, Babel
+
+- Tooling & Code Quality: ESLint, Prettier
+
+- Package managers: npm, yarn
+
+- Version control: Git (Github, Gitlab)
+
+- Design: Figma
+
+- Infrastructure: Docker
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://t.me/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/telegram.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://dribbble.com/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/dribbble.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://behance.net/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/behance.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://github.com/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/github.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://gitlab.com/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/gitlab.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://linkedin.com/in/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/linkedin.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://stackoverflow.com/users/31855647/hayitmurod-eshimov" target="blank">
-      <img align="center" src="./social-media/stackoverflow.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://leetcode.com/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/leetcode.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://codepen.io/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/codepen.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-   <a href="https://codesandbox.io/u/eshimovhayitmurod" target="blank">
-      <img align="center" src="./social-media/codesandbox.svg" alt="eshimovhayitmurod" height="30" width="40" />
-   </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   <span>
-      <img src="./tools/html.svg" alt="html5" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/css.svg" alt="css3" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/sass.svg" alt="sass" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/javascript.svg" alt="javascript" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/typescript.svg" alt="typescript" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/nodejs.svg" alt="nodejs" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/git.svg" alt="git" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/figma.svg" alt="figma" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/react.svg" alt="react" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/redux.svg" alt="redux" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/graphql.svg" alt="graphql" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/postman.svg" alt="graphql" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/tailwindcss.svg" alt="tailwind" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/nextjs.svg" alt="nextjs" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/docker.svg" alt="docker" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/vite.svg" alt="vitejs" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/webpack.svg" alt="webpack" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/babel.svg" alt="babel" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/npm.svg" alt="babel" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/yarn.svg" alt="babel" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/eslint.svg" alt="tailwind" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="./tools/prettier.svg" alt="tailwind" width="40" height="40"/>
-   </span>
-</p>
+<div>
+   <p align="left">
+      <a href="https://t.me/eshimovhayitmurod" target="blank">
+         <img align="center" src="./social-media/telegram.svg" alt="eshimovhayitmurod" height="30" width="40" />
+         <span>Telegram</span>
+      </a>
+   </p>
+   <p align="left">
+      <a href="https://linkedin.com/in/eshimovhayitmurod" target="blank">
+         <img align="center" src="./social-media/linkedin.svg" alt="eshimovhayitmurod" height="30" width="40" />
+         <span>Linkedin</span>
+      </a>
+   </p>
+   <p align="left">
+      <a href="https://github.com/eshimovhayitmurod" target="blank">
+         <img align="center" src="./social-media/github.svg" alt="eshimovhayitmurod" height="30" width="40" />
+         <span>Github</span>
+      </a>
+   </p>
+   <details>
+      <summary>Show more/less</summary>
+      <div>
+         <p align="left">
+            <a href="https://gitlab.com/eshimovhayitmurod" target="blank">
+               <img align="center" src="./social-media/gitlab.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>Gitlab</span>
+            </a>
+         </p>
+         <p align="left">
+            <a href="https://stackoverflow.com/users/31855647/hayitmurod-eshimov" target="blank">
+               <img align="center" src="./social-media/stackoverflow.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>StackOverflow</span>
+            </a>
+         </p>
+         <p align="left">
+            <a href="https://leetcode.com/eshimovhayitmurod" target="blank">
+               <img align="center" src="./social-media/leetcode.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>LeetCode</span>
+            </a>
+         </p>
+         <p align="left">
+            <a href="https://codepen.io/eshimovhayitmurod" target="blank">
+               <img align="center" src="./social-media/codepen.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>CodePen</span>
+            </a>
+         </p>
+         <p align="left">
+            <a href="https://codesandbox.io/u/eshimovhayitmurod" target="blank">
+               <img align="center" src="./social-media/codesandbox.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>CodeSandbox</span>
+            </a>
+         </p>
+         <p align="left">
+            <a href="https://dribbble.com/eshimovhayitmurod" target="blank">
+               <img align="center" src="./social-media/dribbble.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>Dribble</span>
+            </a>
+         </p>
+         <p align="left">
+            <a href="https://behance.net/eshimovhayitmurod" target="blank">
+               <img align="center" src="./social-media/behance.svg" alt="eshimovhayitmurod" height="30" width="40" />
+               <span>Behance</span>
+            </a>
+         </p>
+      </div>
+   </details>
+</div>
