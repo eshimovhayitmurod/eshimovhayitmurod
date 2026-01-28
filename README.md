@@ -1,10 +1,10 @@
 # Hi 👋, I'm Eshimov Hayitmurod
 
-### Front End Developer
+### Front End Developer (React • TypeScript • Next.js)
 
 -  🔭 I'm currently working on **CFO.uz web app**
 
--  🌱 I'm currently learning **GraphQL and Typescript**
+-  🌱 Currently improving skills in **GraphQL** & **TypeScript** (production usage)
 
 -  💬 Ask me about **Javascript, React and web development**
 
