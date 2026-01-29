@@ -18,29 +18,23 @@
 
 ## Skills and Tools:
 
-- Frontend core: HTML, CSS, JS, TS, React
+- Frontend core: HTML, CSS, JS, TS, React, Next.js
 
-- Framework: Next.js
+- Styling & Design: Bootstrap, Sass, Tailwind CSS, Styled Components, Figma
 
 - State Management: Context, Redux, Redux Toolkit, Zustand
 
-- Styling: Bootstrap, Sass, Tailwind CSS
-
 - API & Data: Axios, Fetch, GraphQL, Postman
-
-- Build & Ecosystem: Vite, Webpack, Babel
 
 - Tooling & Code Quality: ESLint, Prettier
 
-- Package managers: npm, yarn
+- Build & Ecosystem: Vite, Webpack, Babel
 
 - Version control: Git (Github, Gitlab)
 
-- Design: Figma
+- Project management: Jira, Trello, Notion
 
-- Infrastructure: Docker
-
-- Runtime: Node.js
+- Others: Node.js, npm, yarn, Docker
 
 ## 🚀 Featured Projects
 
