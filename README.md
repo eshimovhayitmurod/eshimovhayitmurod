@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **CFO.uz web app** (Javascript, React, Vite)
 
-- 🌱 Currently improving skills in **GraphQL** & **TypeScript** (production usage)
+- 🌱 Currently improving skills in **Algorithm** & **Architecture** (production usage)
 
 - 💬 Ask me about **Javascript, React and web development**
 
