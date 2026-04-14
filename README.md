@@ -71,20 +71,14 @@
       </a>
    </p>
    <p align="left">
-      <a href="https://github.com/eshimovhayitmurod" target="blank">
-         <img align="center" src="./social-media/github.svg" alt="eshimovhayitmurod" height="30" width="40" />
-         <span>Github</span>
+      <a href="https://gitlab.com/eshimovhayitmurod" target="blank">
+         <img align="center" src="./social-media/gitlab.svg" alt="eshimovhayitmurod" height="30" width="40" />
+         <span>Gitlab</span>
       </a>
    </p>
    <details>
       <summary>Show more/less</summary>
       <div>
-         <p align="left">
-            <a href="https://gitlab.com/eshimovhayitmurod" target="blank">
-               <img align="center" src="./social-media/gitlab.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>Gitlab</span>
-            </a>
-         </p>
          <p align="left">
             <a href="https://stackoverflow.com/users/31855647/hayitmurod-eshimov" target="blank">
                <img align="center" src="./social-media/stackoverflow.svg" alt="eshimovhayitmurod" height="30" width="40" />
