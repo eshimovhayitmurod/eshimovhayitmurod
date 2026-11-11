@@ -76,45 +76,4 @@
          <span>Gitlab</span>
       </a>
    </p>
-   <details>
-      <summary>Show more/less</summary>
-      <div>
-         <p align="left">
-            <a href="https://stackoverflow.com/users/31855647/hayitmurod-eshimov" target="blank">
-               <img align="center" src="./social-media/stackoverflow.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>StackOverflow</span>
-            </a>
-         </p>
-         <p align="left">
-            <a href="https://leetcode.com/eshimovhayitmurod" target="blank">
-               <img align="center" src="./social-media/leetcode.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>LeetCode</span>
-            </a>
-         </p>
-         <p align="left">
-            <a href="https://codepen.io/eshimovhayitmurod" target="blank">
-               <img align="center" src="./social-media/codepen.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>CodePen</span>
-            </a>
-         </p>
-         <p align="left">
-            <a href="https://codesandbox.io/u/eshimovhayitmurod" target="blank">
-               <img align="center" src="./social-media/codesandbox.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>CodeSandbox</span>
-            </a>
-         </p>
-         <p align="left">
-            <a href="https://dribbble.com/eshimovhayitmurod" target="blank">
-               <img align="center" src="./social-media/dribbble.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>Dribbble</span>
-            </a>
-         </p>
-         <p align="left">
-            <a href="https://behance.net/eshimovhayitmurod" target="blank">
-               <img align="center" src="./social-media/behance.svg" alt="eshimovhayitmurod" height="30" width="40" />
-               <span>Behance</span>
-            </a>
-         </p>
-      </div>
-   </details>
 </div>
